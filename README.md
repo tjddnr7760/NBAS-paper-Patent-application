@@ -29,7 +29,7 @@ NBAS는 평균 10.25sec의 초기 페어링 시간을 보였으며 재연결 시
 <p align="center"><img src="./img/multi-device.PNG"> 
   
 ### 인증 방식
-<p align="center"><img src="./img/authentication.PNG"> 
+<p align="center"><img src="./img/authenticatoin.PNG"> 
   
 ### 기능
 <p align="center"><img src="./img/functin.PNG"> 
