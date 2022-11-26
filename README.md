@@ -14,27 +14,36 @@ NBAS는 탈중앙화된 네트워크인 이더리움 블록체인을 활용하�
 NBAS는 평균 10.25sec의 초기 페어링 시간을 보였으며 재연결 시간은 0.007sec로 기존 방식과 비슷하며, 미승인 사용자에 대한 페어링 거절 시간은 평균 1.58sec로 측정되었다. 따라서 제
 안하는 NBAS는 미승인된 블루투스 장치의 연결을 방지하여 기존의 보안성이 약한 블루투스 인증 방식을 효과적으로 개선함을 보여준다.
 
+#
 ### 제작 배경
 1. 블루투스 장치 분실문제 사례 증가
 2. 블루투스 장치 보안문제 사례 증가
 
+#
 ### 관련 연구
 1. Bluetooth Pairing key
 2. NFT
 
+#
 ### 구성 요소
 <p align="center"><img src="./img/structure.PNG"> 
 
+#
 ### 여러대 인증시
 <p align="center"><img src="./img/multi-device.PNG"> 
-  
+
+#
 ### 인증 방식
 <p align="center"><img src="./img/authenticatoin.PNG"> 
-  
+
+#
 ### 기능
 <p align="center"><img src="./img/functin.PNG"> 
-  
+
+#
 ### 실험 및 결과
 <p align="center"><img src="./img/environment.PNG"> 
 <p align="center"><img src="./img/rejection.PNG"> 
+
+#
 ### 결론
