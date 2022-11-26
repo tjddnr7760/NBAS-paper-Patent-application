@@ -23,7 +23,7 @@ NBAS는 평균 10.25sec의 초기 페어링 시간을 보였으며 재연결 시
 2. NFT
 
 ### 구성 요소
-![structure_screenshot](./img/structure.png)
+![structure_screenshot](./img/structure.PNG)
 
 ### 여러대 인증시
 
